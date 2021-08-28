@@ -1,2 +1,37 @@
 Copy paste the all the commands that you executed on IDLE:
 
+>>> 273.15+25
+298.15
+>>> 911-314
+597
+>>> 3*19
+57
+>>> 202017
+202017
+>>> 2020/17
+118.82352941176471
+>>> 2020/19
+106.3157894736842
+>>> 2021/21
+96.23809523809524
+>>> 2^7
+5
+>>> 2020//19
+106
+>>> 2021%21
+5
+>>> 2021%/21
+SyntaxError: invalid syntax
+>>> q = 2020//19
+>>> print q
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(q)?
+>>> print(q)
+106
+>>> r = 2021%21
+>>> print(r)
+5
+>>> 2 ** 7  # 2 raise to 7
+128
+>>> 2 ** 7  # 2 raise to 7th power
+128
+>>> 
