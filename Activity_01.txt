@@ -35,3 +35,10 @@ SyntaxError: Missing parentheses in call to 'print'. Did you mean print(q)?
 >>> 2 ** 7  # 2 raise to 7th power
 128
 >>> 
+ Question 5
+num1=2020
+num2=19
+quotient=num1/num2
+print("Quotient is: ",quotient);
+
+Quotient is:  106.3157894736842
