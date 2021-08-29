@@ -42,3 +42,9 @@ quotient=num1/num2
 print("Quotient is: ",quotient);
 
 Quotient is:  106.3157894736842
+
+
+q = 2020 // 19
+print(q)
+
+106
